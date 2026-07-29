@@ -28,7 +28,7 @@ export const profile = {
   ],
   socials: [
     { label: "GitHub", handle: "@ajay5238", href: "https://github.com/ajay5238", icon: "github" },
-    { label: "LinkedIn", handle: "/in/Er AjAy ThAkur", href: "https://www.linkedin.com/in/er-ajay-thakur", icon: "linkedin" },
+    { label: "LinkedIn", handle: "/in/Er AjAy ThAkur", href: "https://www.linkedin.com/in/er-ajay-thakur-230a80294", icon: "linkedin" },
     { label: "Email", handle: "ajaysingh@techie.com", href: "mailto:ajaysingh@techie.com", icon: "mail" },
   ],
 };
